@@ -11,3 +11,10 @@
 10. Thou shall not merge thy neighbour's branch.
 
 _You shall set up these stones, which I command you today, on your lab._
+
+> For apart from inquiry, apart from the praxis, individuals cannot be truly human. Knowledge emerges only through invention and re-invention, through the restless, impatient, continuing, hopeful inquiry human beings pursue in the world, with the world, and with each other.
+― Paulo Freire, Pedagogy of the Oppressed
+
+Thus, one _truly_ human beign does not lend his or hers inquiry, praxis, to a thought-replacing machine. The anti-human machine, AI.
+
+[![badge](https://github.com/oAGoulart/awesome-nollm/blob/main/badge.png)](https://github.com/oAGoulart/awesome-nollm)

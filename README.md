@@ -18,7 +18,7 @@ _You shall set up these stones, which I command you today, on your lab._
 
 ― Paulo Freire, _Pedagogy of the Oppressed_.
 
-Thus, one _truly_ human beign does not lend his or hers inquiry, praxis, to a thought-replacing machine. The anti-human machine, AI.
+Thus, one _truly_ human being does not lend his or hers inquiry, praxis, to a thought-replacing machine. The anti-human machine, AI.
 
 [![badge](https://github.com/oAGoulart/awesome-nollm/blob/main/badge.png)](https://github.com/oAGoulart/awesome-nollm)
 

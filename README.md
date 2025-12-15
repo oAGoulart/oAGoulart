@@ -3,8 +3,6 @@
 1. **Reverse engineering**
 2. **Low-level programming**
 3. **Technical writing**
-4. **Database modeling**
-5. **Requirements analysis**
 
 ### What I've done (noteworthy)
 

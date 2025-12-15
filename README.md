@@ -19,5 +19,5 @@
 
 ### Badges
 
-[![badge](https://github.com/oAGoulart/awesome-nollm/blob/main/badge.png)](https://github.com/oAGoulart/awesome-nollm)
+[![badge](https://github.com/oAGoulart/awesome-nollm/blob/main/assets/nollm-b-31px.png)](https://github.com/oAGoulart/awesome-nollm)
 

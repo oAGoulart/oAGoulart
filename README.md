@@ -21,6 +21,7 @@
 
 ### Badges
 
-[![nollm](https://github.com/oAGoulart/awesome-nollm/blob/main/assets/nollm-b-31px.png)](https://github.com/oAGoulart/awesome-nollm)
-[![badge](/badges/vivaldi.png)](https://vivaldi.com)
+[![AI-Free content](https://github.com/oAGoulart/awesome-nollm/blob/main/assets/nollm-b-31px.png)](https://github.com/oAGoulart/awesome-nollm)
+[![Gaúcho, baita chão](/badges/gaucho.png)](https://oagoulart.github.io)
+[![I use Vivaldi!](/badges/vivaldi.png)](https://vivaldi.com)
 

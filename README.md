@@ -2,8 +2,8 @@
 
 1. **Reverse engineering**
 2. **Low-level programming**
-3. **Technical writing**
-4. **Electronics and embedded systems**
+3. **Electronics and embedded systems**
+4. **Interactive-fiction writing**
 
 ### What I've done (noteworthy)
 

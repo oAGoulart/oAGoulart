@@ -1,9 +1,9 @@
-### What I LOVE to do
+### Interests (non-negotiable)
 
-1. **Reverse engineering**
-2. **Low-level programming**
-3. **Electronics and embedded systems**
-4. **Interactive-fiction writing**
+◬ reverse engineering ☛ low-level programming ☛ electronics and embedded systems \
+◬ architecture ☛ drawing and sketching ☛ tailoring \
+◬ interactive-fictions ☛ role-playing video games ☛ geopolitics \
+◬ cycling ☛ volleyball ☛ tennis 
 
 ### What I've done (noteworthy)
 

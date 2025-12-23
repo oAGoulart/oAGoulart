@@ -1,9 +1,9 @@
 ### Interests (non-negotiable)
 
-◬ reverse engineering ☛ low-level programming ☛ electronics and embedded systems \
-◬ architecture ☛ drawing and sketching ☛ tailoring \
-◬ interactive-fictions ☛ role-playing video games ☛ geopolitics \
-◬ cycling ☛ volleyball ☛ tennis 
+⬡ reverse engineering ⬫ low-level programming ⬫ electronics and embedded systems \
+⬡ architecture ⬫ drawing and sketching ⬫ tailoring \
+⬡ interactive-fictions ⬫ role-playing video games ⬫ geopolitics \
+⬡ cycling ⬫ volleyball ⬫ tennis 
 
 ### What I've done (noteworthy)
 

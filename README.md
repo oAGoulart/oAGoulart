@@ -16,6 +16,7 @@
 ⠀⠀⠀⠉⠉⠉⠛⠛⠉⢀⣿⢿⡀⠙⠋⠓⠿⠿⠏⠉⠉
 ⠀⠀⠀⠀⠀⠀⠠⠤⠶⠾⢿⡯⠷⠶⠤⠄⠀⠀⠀⠀⠀
 ```
+_and a happy new year's!_
 
 ### Interests (non-negotiable)
 

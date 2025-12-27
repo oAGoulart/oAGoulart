@@ -30,7 +30,7 @@
                                                                
 ```
 
-### Interests (non-negotiable)
+### Interests
 
 ⬡ reverse engineering ⬫ low-level programming ⬫ electronics and embedded systems \
 ⬡ architecture ⬫ drawing and sketching ⬫ tailoring \

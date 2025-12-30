@@ -33,7 +33,7 @@
 ### Interests
 
 ⬡ reverse engineering ⬫ low-level programming ⬫ electronics and embedded systems \
-⬡ architecture ⬫ drawing and sketching ⬫ tailoring \
+⬡ architecture ⬫ urban planning ⬫ drawing and sketching ⬫ tailoring \
 ⬡ interactive-fictions ⬫ role-playing video games ⬫ geopolitics \
 ⬡ cycling ⬫ volleyball ⬫ tennis 
 

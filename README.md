@@ -1,9 +1,11 @@
 ### Interests
 
-⬡ reverse engineering ⬫ low-level programming ⬫ electronics and embedded systems \
-⬡ architecture ⬫ urban planning ⬫ drawing and sketching ⬫ tailoring \
-⬡ interactive-fictions ⬫ role-playing video games ⬫ geopolitics \
-⬡ cycling ⬫ volleyball ⬫ tennis 
+| AREA | KEYS 🔑 |
+|---:|:---|
+| academia 📖 | reverse engineering + low-level programming + electronics |
+| hobbies 👑 | architecture + languages + tailoring |
+| leisure 🎲 | interactive-fictions + rpgs + novels |
+| sports 🏐 | cycling + volleyball + tennis |
 
 ### What I've done (noteworthy)
 

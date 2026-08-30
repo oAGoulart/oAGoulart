@@ -16,7 +16,7 @@
 5. [Proraf's website](https://github.com/oAGoulart/proraf.github.io) with Bulma and Jekyll.
 6. Executable file import address table [patching tool](https://github.com/oAGoulart/wrappem) in C++.
 7. [Lua library](https://github.com/oAGoulart/libluacrc32) in Assembly to calculate CRC32, with SSE42 support.
-8. Command-line [barcode generator](https://github.com/oAGoulart/qrcode) in pure C, following ISO 18004 standard.
+8. Command-line [barcode generator](https://github.com/oAGoulart/qrcode) in pure C, following ISO 18004 standard. (**DOI** [10.5281/zenodo.18919575](https://doi.org/10.5281/zenodo.18919575))
 9. Parser-free [IF framework](https://github.com/chiselworks/runarc) in TypeScript.
 10. [LuaLaTeX template](https://github.com/thesolisproject/solis-article) for institutional reports.
 11. A NLP-based firewall settings helper [chatbot](https://github.com/fw-tools/fwnl) with three interfaces, RESTful API in Python, containerized with Docker, using: Spacy, Rita DSL, Flask, Gunicorn, RabbitMQ. (**Patent** BR 51 2023 001338 2).
